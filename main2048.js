@@ -303,7 +303,7 @@ function moveRight() {
 						board[i][j] = 0;
 						continue;
 					}
-					else if(board[i][k] == board[i][j] && noBlockHorizontal(i,k,j,board) && !hasConflicted[i][k]){
+					else if(board[i][k] == board[i][j] && noBlockHorizontal(i,j,k,board) && !hasConflicted[i][k]){
 						showMoveAnimation(i,j,i,k);
 						board[i][k] *=2;
 						board[i][j] = 0;
