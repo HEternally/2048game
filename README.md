@@ -3,4 +3,4 @@
 
 ![运行界面](https://github.com/HEternally/2048game/blob/master/2048.png?raw=true)
 
-[运行链接](https://heternally.github.io/2048game/)https://heternally.github.io/2048game/
+运行链接https://heternally.github.io/2048game/
