@@ -4,6 +4,7 @@
 运行链接https://heternally.github.io/2048game/
 
 移动端请扫二维码，效果更加好哦。
+
 <img src="http://qr.api.cli.im/qr?data=https%253A%252F%252Fheternally.github.io%252F2048game%252F&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=1dda64ec79b03ec4ba911d8e9ed90213" width="350" height="350"/>
 
 ## 制作运用到的技术
